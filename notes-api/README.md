@@ -4,7 +4,7 @@ Selain dengan menggunakan pengujian postman, disediakan juga website khusus yang
 <br><br>Cara menggunakannya:
 <ul>
   <li>Jalankan server dengan nodejs</li>
-  <li>Buka websitenya</li>
+  <li>Buka <<a href="http://notesapp-v1.dicodingacademy.com/">websitenya</a></li>
   <li>Klik change URL</li>
   <li>Isikan sesuai dengan url host yang dijalankan dengan nodejs, contoh http://localhost:5000</li>
   <li>Klik OK, dan saatnya lakukan pengujian!</li>
